@@ -6,9 +6,9 @@ I think of SystemC as a C++ version of VHDL and Verilog, easy to parse if you're
 
 ## TODO
 
-[x] project 1 hello SystemC
+[ x ] project 1 hello SystemC
 
-[x] project 2 better constructors
+[ x ] project 2 better constructors
 
 [ ] replace runscripts with makefiles
 
