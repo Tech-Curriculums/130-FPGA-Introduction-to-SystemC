@@ -12,5 +12,5 @@ I think of SystemC as a C++ version of VHDL and Verilog, easy to parse if you're
 
 ## References:
 
-http://rkrara.blogspot.com/2012/12/install-systemc-230-on-linux.html
-http://www.asic-world.com/systemc/data_types1.html
+* http://rkrara.blogspot.com/2012/12/install-systemc-230-on-linux.html
+* http://www.asic-world.com/systemc/data_types1.html
