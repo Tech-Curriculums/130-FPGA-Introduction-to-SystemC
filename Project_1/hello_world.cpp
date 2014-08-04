@@ -10,7 +10,7 @@ SC_MODULE(hello_world) {
   }
 
   void say_hello() {
-    cout << "Hello World sytemc-2.3.1.\n";
+    cout << "Hello Systemc-2.3.1!\n";
   }
 
   void open_magic_box() {
